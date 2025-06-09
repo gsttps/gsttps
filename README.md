@@ -8,7 +8,6 @@
 
 - 🎓 Student
 - 🛡️ Passionate about **Cybersecurity** and **Ethical Hacking**.
-- 🐧 Linux user
 - 💻 Interested in software development, scripting, and automation.
 
 ---
