@@ -16,7 +16,7 @@
 
 - **Languages:** Python 🐍 | Bash 🖥️ | JavaScript ⚡ | C
 - **Operating Systems:** Arch Linux 🐧 | Windows 💻
-- **Tools:** Git | VS Code | Wireshark | Burp Suite | VirtualBox
+- **Tools:** Git | VS Code | Wireshark | Burp Suite | Nmap
 - **Areas of Interest:** Pentesting | Red Team | Blue Team | Network Security | Digital Forensics
 
 ![gsttps GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsttps&show_icons=true&theme=tokyonight&hide_rank=true&hide_title=false)
