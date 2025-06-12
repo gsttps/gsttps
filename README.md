@@ -14,7 +14,7 @@
 
 ### 🛠️ Technologies & Tools
 
-- **Languages:** Python 🐍 | Bash 🖥️ | JavaScript ⚡ | C
+- **Languages:** Python 🐍 | Bash 🖥️ | JavaScript ⚡ | C | HTML/CSS | 
 - **Operating Systems:** Arch Linux 🐧 | Windows 💻
 - **Tools:** Git | VS Code | Wireshark | Burp Suite | Nmap
 - **Areas of Interest:** Pentesting | Red Team | Blue Team | Network Security | Digital Forensics
