@@ -1,22 +1,23 @@
 # 👋 Hello! I'm **gsttps**
 
-### 🚀 Computer Engineering Student | Future Cybersecurity Specialist | Linux & Open Source Enthusiast
+### 🚀 Informatics Engineering Student | Cybersecurity Enthusiast | Linux Power User
 
 ---
 
 ### 📚 About Me
 
-- 🎓 Student
-- 🛡️ Passionate about **Cybersecurity** and **Ethical Hacking**.
-- 💻 Interested in software development, scripting, and automation.
+- 🎓 **Informatics Engineering Student**
+troubleshooting.
+- 🛡️ Passionate about **Cybersecurity**, **Ethical Hacking**, and Information Security Compliance.
+- 💻 Experienced in configuring deep Linux environments, custom builds (LFS), and automating workflows.
+- ⌨️ Currently exploring Full-Stack Development.
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-- **Languages:** Python 🐍 | Bash 🖥️ | JavaScript ⚡ | C | HTML/CSS | 
-- **Operating Systems:** Arch Linux 🐧 | Windows 💻
-- **Tools:** Git | VS Code | Wireshark | Burp Suite | Nmap
-- **Areas of Interest:** Pentesting | Red Team | Blue Team | Network Security | Digital Forensics
+- **Languages:** Python 🐍 | TypeScript & JavaScript ⚡ | Bash 🖥️ |
+- **Frameworks & Databases:** Node.js | FastAPI | React |
+- **AI & LLMs:** Model Fine-Tuning |
 
 ![gsttps GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsttps&show_icons=true&theme=tokyonight&hide_rank=true&hide_title=false)
