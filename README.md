@@ -1,10 +1,5 @@
-# 👋 Hello! I'm **gsttps**
 
-### 🚀 Informatics Engineering Student | Cybersecurity Enthusiast | Linux Power User
-
----
-
-### 📚 About Me
+### 🤖 About Me
 
 - 🎓 **Informatics Engineering Student**
 - 🛡️ Passionate about **Cybersecurity**, **Ethical Hacking**, and Information Security Compliance.
