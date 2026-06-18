@@ -7,7 +7,6 @@
 ### 📚 About Me
 
 - 🎓 **Informatics Engineering Student**
-troubleshooting.
 - 🛡️ Passionate about **Cybersecurity**, **Ethical Hacking**, and Information Security Compliance.
 - 💻 Experienced in configuring deep Linux environments, custom builds (LFS), and automating workflows.
 - ⌨️ Currently exploring Full-Stack Development.
